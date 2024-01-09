@@ -10,3 +10,4 @@ IOPaint.egg-info/
 venv/
 tmp/
 iopaint/web_app/
+lama_cleaner/app/node_modules
